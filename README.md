@@ -2,9 +2,9 @@
 
 Ejemplo 03 Trunk-based development
 
-Proyecto que contiene clase HolaBedu.java sobre la cual se ejecutan pruebas automatizadas de CI con la ayuda de GitHub Action mediante las configuraciones presentes en /.github/workflows/java.yml
+Proyecto que contiene clase HolaBedu.java sobre la cual se ejecutan pruebas automatizadas de CI con la ayuda de GitHub Actions mediante las configuraciones presentes en /.github/workflows/java.yml
 
-Para ver las configuraciones especificos del pipeline de CI consultar el archiv /.github/workflows/java.yml
+Para ver las configuraciones especificos del pipeline de CI consultar el archivo /.github/workflows/java.yml
 
 BEDU: Developer Engineering
 * Sesion #5: Ejemplo 03 Trunk-based development
